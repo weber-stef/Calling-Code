@@ -1,0 +1,16 @@
+{
+  "name": "nwp-2019-03-05--10-14-06",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "countries-api": "^2.0.2",
+    "node-sass": "^4.11.0",
+    "sassy": "^1.0.0"
+  }
+}
